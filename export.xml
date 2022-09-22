@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<root>
+
+    <item>
+        <id>1</id>
+        <name>asdasd</name>
+        <email>asdasdasd</email>
+        <password>sdfsssssssss</password>
+    </item>
+
+    <item>
+        <id>2</id>
+        <name>asdasdaaaaaa</name>
+        <email>asdasdasdaaaaa</email>
+        <password>sdfsssssssssaaaaa</password>
+    </item>
+
+    <item>
+        <id>3</id>
+        <name>asdasdfffffffffff</name>
+        <email>asdasdasdffffff</email>
+        <password>sdfsssssssssffffffffff</password>
+    </item>
+
+    <item>
+        <id>4</id>
+        <name>ffff</name>
+        <email>gggggggg</email>
+        <password>vvvvvvvvv</password>
+    </item>
+
+</root>
